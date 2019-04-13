@@ -1,4 +1,4 @@
-# Static Site Export/Import
+# Static Site Export/Import to Markdown Files
 
 ### 1. Search & Replace
 
@@ -208,4 +208,4 @@ Check for invalid UTF-8 Characters, find and fix prior to adding the `_imports` 
     for file in **/*.html; do grep -axv '.*' $file; done;
 
 
-### 9. Integrate Import with new stack. :)
+### 9. Integrate imported static markdown files with new stack. :)

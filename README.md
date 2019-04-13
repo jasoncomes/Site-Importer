@@ -91,7 +91,7 @@ This will scan the sitemap.xml and compare to existing import, if there are addi
 
 ---
 
-The commands below will cherry pick important variables to include in various spots of our pages, include `<meta>`, `<title>`, and even URL structures.
+The commands below will cherry pick important variables to include in various spots on pages, include `<meta>`, `<title>`, and even URL structures.
 
 **Commands:**
 
